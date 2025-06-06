@@ -51,7 +51,7 @@ body {
 
 .hero-swiper .swiper-container {
   width: 100%;
-  max-width: 400px;
+  max-width: 300px;
   height: 300px;
   border-radius: 12px;
   overflow: hidden;
